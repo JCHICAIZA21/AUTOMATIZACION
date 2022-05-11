@@ -1,4 +1,0 @@
-
-automatizacion_qa
-
-prueba
